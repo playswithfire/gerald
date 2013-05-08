@@ -5,7 +5,7 @@ import java.util.*;
 
 public class NewClass {
 
-	
+	//comment does not affect anything
 	public static void main(String[] args) {
 		ArrayList<String> Pics = new ArrayList<String>();
 		ArrayList<String> ans = new ArrayList<String>();
